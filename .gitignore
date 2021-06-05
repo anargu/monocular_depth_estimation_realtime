@@ -1,0 +1,7 @@
+*.npy
+notebooks/*
+.vscode
+*.pyc
+pretrain/
+__pycache__/
+.ipynb_checkpoints
